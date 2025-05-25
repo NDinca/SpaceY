@@ -1,2 +1,2 @@
 # SpaceY
-SpaceY Case Study - IBM Final Test
+SpaceY Case Study for Machine Learning - IBM Final Test
